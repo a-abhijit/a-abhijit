@@ -86,13 +86,9 @@
 </p>
 
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=a-abhijit&show_icons=true&locale=en" alt="a-abhijit" height="200"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="450" src="https://github-readme-stats-defcon27.vercel.app/api?username=a-abhijit&show_icons=true&line_height=21&theme=react" alt="a-abhijit's Github Stats" />
+</div>
 
 
 
