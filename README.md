@@ -25,13 +25,18 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/abhijittt-saha" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijittt-saha" height="30" width="40" />
-</a>
-<a href="mailto:abhijit0045@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Gmail" height="30" width="40" />
-</a>
-<a href="https://discord.com/users/abhijit6015" target="blank">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/abhijittt-saha" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:abhijit0045@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
+  </a>
+  
+  <!-- Discord -->
+  <a href="https://discord.com/users/abhijit6015" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
 </a>
 <a href="https://www.hackerrank.com/abhijit0045" target="blank">
@@ -40,8 +45,9 @@
 <a href="https://www.leetcode.com/abhijit0045" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhijit0045" height="30" width="40" />
 </a>
-
 </p>
+
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
